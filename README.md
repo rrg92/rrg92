@@ -1,12 +1,10 @@
 ﻿[english](#english)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrg92)](https://github.com/anuraghazra/github-readme-stats)
+[![Linkedin: Rodrigo Ribeiro Gomes](https://img.shields.io/badge/-Rodrigo%20Ribeiro%20Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoribeirogomes/)](https://www.linkedin.com/in/rodrigoribeirogomes/)
 
 | Stats |  Languages |
 | --------------- | --------------- |
 | [![rrg92's GitHub stats](https://github-readme-stats.vercel.app/api?username=rrg92&count_private=true&include_all_commits=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rrg92&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats) |
-
-[![Linkedin: Rodrigo Ribeiro Gomes](https://img.shields.io/badge/-Rodrigo%20Ribeiro%20Gomes-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rodrigoribeirogomes/)](https://www.linkedin.com/in/rodrigoribeirogomes/)
 
 
 Olá! 😊
